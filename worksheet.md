@@ -1,11 +1,10 @@
-# 01/26 Worksheet: Memory, Classes & Generics
-## Initial due date: *01/28 @5pm* 
-#### accepted as on time until 01/30 @11:59pm
+# 08/31 Worksheet: Memory, Classes & Generics
+## Initial due date: *09/08 @5pm* 
 
 Collaborators:
 
 Answer the below questions, and make sure that you commit to your own branch.
-When done, make a pull request and tag @irabkina.
+When done, make a pull request and tag @AnhThuongVo.
 Respond to my comments by making new commits to the same branch.
 
 ## Review
