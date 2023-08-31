@@ -1,4 +1,4 @@
-# 08/31 Worksheet: Memory, Classes & Generics
+# 09/01 Worksheet: Memory, Classes & Generics
 ## Initial due date: *09/08 @5pm* 
 
 Collaborators:
