@@ -176,8 +176,6 @@ f. `String`
 
 ## Challenge
 
-Remember to submit your code to the [autograder](http://autograder.cc.oxy.edu/)!
-
 1. Java has two ways of testing if two objects are the same - `==` and `.equals()`. You might have been told to always use `.equals()`, but there *are* cases where `==` is useful. Read some of the search results from Google on how these are different, then in your own words, explain what `==` does and why you would want to use `.equals()` most of the time.
 2. What are the benefits of writing generic classes? When might it be better to _not_ use generics?
 
